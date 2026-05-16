@@ -1,3 +1,4 @@
-Belajar github
+Belajar github & Git
 Belajar Materi
 -Python
+-Javascript
